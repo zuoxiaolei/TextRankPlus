@@ -1,0 +1,17 @@
+#python file
+*.py[oc]
+*.npy
+
+#dir
+test
+ltp_data/
+split/
+word2vec/seg/
+
+#file
+word2vec/wiki_model
+sentences.txt
+sentence_sort_tr.csv
+sentence_sort_wmd.csv
+wor2vecKW.csv
+keywords_out.csv
