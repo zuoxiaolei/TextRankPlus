@@ -3,10 +3,10 @@
 *.npy
 
 #dir
-test
-ltp_data/
-split/
-word2vec/seg/
+test/*
+ltp_data/*
+split/*
+word2vec/seg/*
 
 #file
 word2vec/wiki_model
