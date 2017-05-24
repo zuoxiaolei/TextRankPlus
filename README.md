@@ -2,7 +2,7 @@
 ```
 bash build.sh
 ```
-#改进的TextRank算法项目的测试
+# 改进的TextRank算法项目的测试
 ```
 python main.py
 ```
