@@ -1,7 +1,7 @@
 # 项目的编译
-'''
+```
 pip install -r requirements.txt
-'''
+```
 ```
 download ltp_data from :http://pan.baidu.com/s/1hsqYX5U
 put ltp_data into TextRankPlus directory
