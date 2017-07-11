@@ -1,11 +1,11 @@
-#训练word2vec模型 先解析wiki语料xml成txt然后预处理文本然后训练模型
+#download data
 mkdir ltp_data
-cd ./word2vec
-mkdir seg
-python seg_wiki_data.py
-python train.py #word2vec模型文件在word2vec 的wiki_model
-
+echo "please download ltp_data from :http://pan.baidu.com/s/1hsqYX5U"
+echo "please put ltp_data into TextRankPlus directory"
+echo "***************"
+echo "please download word2vec model from:"
+echo "please put the three file into TextRankPlus/word2vec directory"
 #测试改进的TextRank模型
-cd ../
-python main.py
+python testTextRankPlus4KeySentence.py
+python testTextRankPlus4KeyWord.py
 
