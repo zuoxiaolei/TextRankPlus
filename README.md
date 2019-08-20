@@ -1,3 +1,7 @@
+# TextRankPlus: add more plugins to TextRank algorithm
+
+使用**word2vec**算法计算单词的空间距离进行关键词提取和**单词移动距离(RWMD)算法**进行关键句提取
+
 ![Image](https://aip.bdstatic.com/portal/dist/1565867323646/ai_images/secondary/nlp_apply/introduction/6.png)
 
 # 项目的编译
