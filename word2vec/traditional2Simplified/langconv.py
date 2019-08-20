@@ -1,15 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
 from copy import deepcopy
-import re
-
-try:
-    import psyco
-    psyco.full()
-except:
-    pass
-
 try:
     from zh_wiki import zh2Hant, zh2Hans
 except ImportError:

@@ -1,6 +1,5 @@
-pyltp==0.1.9.1
-networkx==1.11
-gensim==1.0.1
-numpy==1.11.3
-pyemd==0.4.3
-psyco==1.6
+pyltp>=0.1.9.1
+networkx>=1.11
+gensim>=1.0.1
+numpy>=1.11.3
+pyemd>=0.4.3
