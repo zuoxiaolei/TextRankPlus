@@ -1,3 +1,5 @@
+![Image](https://aip.bdstatic.com/portal/dist/1565867323646/ai_images/secondary/nlp_apply/introduction/6.png)
+
 # 项目的编译
 ```
 pip install -r requirements.txt
