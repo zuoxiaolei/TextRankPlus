@@ -36,7 +36,7 @@ python testTextRankPlus4KeyWord.py
 ```
 
 # 模型生成的词云
-![词云](data/tr.png){:height="100"}
+![词云](data/tr.png)
 
 # todo
 - 基于bilstm+crf的关键词提取  
