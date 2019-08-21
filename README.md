@@ -1,4 +1,4 @@
-# _TextRankPlus_: _more plugins TextRank algorithm_
+# _TextRankPlus_: _more than TextRank algorithm_
 
 使用[*word2vec*](https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa)算法计算单词的空间距离进行关键词提取和**单词移动距离**(*RWMD*)算法进行关键句提取,欢迎大家*start*和代码贡献
 
