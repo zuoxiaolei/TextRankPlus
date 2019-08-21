@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon May 22 10:09:27 2017
-
-@author: Administrator
-"""
+from __future__ import absolute_import
 import wordcloud
 import matplotlib.pyplot as plt
 import csv

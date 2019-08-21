@@ -10,10 +10,11 @@ Created on Tue May 16 13:46:47 2017
 
 @author: zuoxiaolei
 """
+from __future__ import absolute_import
 import csv
-import TR4KW
-import filter_all
-from Logger import logger
+from . import TR4KW
+from . import filter_all
+from .Logger import logger
 
 def load_model():
     '''

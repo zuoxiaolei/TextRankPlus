@@ -4,6 +4,7 @@ Created on Tue May 16 17:02:37 2017
 
 @author: Administrator
 """
+from __future__ import absolute_import
 import numpy as np
 import networkx as nx
 from gensim.models import Word2Vec
