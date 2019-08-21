@@ -1,7 +1,4 @@
 # coding:utf-8
-import sys
-
-sys.path.append("../")
 from easynlp import easynlp
 # from easynlp import textRankPlus4KeySentence
 
