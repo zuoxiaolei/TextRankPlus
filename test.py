@@ -1,8 +1,4 @@
 # coding:utf-8
-'''
-@author: Ray
-@email:
-'''
 import sys
 
 sys.path.append("../")
