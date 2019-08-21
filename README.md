@@ -41,3 +41,5 @@ python testTextRankPlus4KeyWord.py
 # _todo_
 - 基于*bilstm*+*crf*的关键词提取  
 - *python*模块松耦合
+- 添加*pypi*支持
+- 添加更多nlp模块
