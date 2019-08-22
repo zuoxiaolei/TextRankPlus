@@ -5,16 +5,12 @@
 ![NLP](data/text_rank_coin.png)
 
 # *python*依赖包介绍
-[pyltp>=0.1.9.1](https://github.com/HIT-SCIR/ltp)      
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[哈工大LTP](https://github.com/HIT-SCIR/pyltp) python软件包，用于分词和词性标注  
 &#160;[networkx>=1.11](http://networkx.github.io/)  
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;构建单词之间的关系图，计算每个单词的权重  
 [gensim>=1.0.1](https://radimrehurek.com/gensim/)   
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;训练*word2vec*模型  
 [numpy>=1.11.3](https://www.numpy.org/)   
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;*python*矩阵和张量计算  
-[pyemd>=0.4.3](https://github.com/wmayner/pyemd)    
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;快速计算单词移动距离  
 [python2.7](https://www.python.org/) 或 [python>=3.5](https://www.python.org/)  
 
 ## 命令行安装依赖包
