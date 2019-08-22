@@ -22,13 +22,6 @@
 pip install -r requirements.txt
 ```
 
-# 下载*ltp*分词、词性标注模型和与训练的*word2vec*模型
-1. 从百度云下载*ltp_data*模型文件 :&nbsp;&nbsp;http://pan.baidu.com/s/1hsqYX5U  
-    下载慢可使用[Pandownloader](https://www.baiduwp.com/)
-2. *ltp_data*文件夹放置到*TextRankPlus*目录
-3. 下载*word2vec*模型文件:&nbsp;&nbsp;http://pan.baidu.com/s/1mhCpm8w
-4. 把下载的3个*word2vec*模型文件放置到 TextRankPlus/word2vec 目录下
-
 # 改进的*TextRank*用法
 ```python
 from easynlp import easynlp
